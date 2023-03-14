@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello everyone, I am Ariel Hernandez, a passionate person about programming. 👋
+
+### HTML it was what i started with
+## after CSS and JAVASCRIPT 
 
 <!--
 **SsebassDev/SsebassDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
